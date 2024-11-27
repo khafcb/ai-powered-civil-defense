@@ -2,5 +2,6 @@ Flask
 opencv-python
 numpy
 torch
-yolov5
+torchvision
 gunicorn
+
