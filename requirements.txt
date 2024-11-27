@@ -1,3 +1,7 @@
 Flask
 opencv-python
 numpy
+torch
+yolov5
+cv2 
+pathlib
